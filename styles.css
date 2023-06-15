@@ -3,7 +3,7 @@
     position: relative;
     width: 360px;
     height: 480px;
-    background-color: #ccc;
+    background-color: #ffffff;
     padding: 20px;
 }
 body {
@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color:  #fff;
+    background-color:  #020202;
 
 }
 .card .top {
